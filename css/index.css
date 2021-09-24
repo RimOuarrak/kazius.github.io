@@ -183,7 +183,7 @@
  }
  
  .background {
-     background-image: url('back.png');
+     background-image: url('/img/back.png');
      width: 1200px;
      height: 600px;
      background-size: cover;
