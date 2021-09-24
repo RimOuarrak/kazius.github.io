@@ -1044,7 +1044,7 @@ textarea.formcontrol {
 }
 
 .background {
-    background-image: url('/img/back.png');
+    background-image: url('back.png');
     width: 1200px;
     height: 600px;
     background-size: cover;
