@@ -1,0 +1,1080 @@
+#Web_1920__2 {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(255, 255, 255, 1);
+}
+
+#Groupe_27 {
+    opacity: 0.2;
+    position: absolute;
+    width: 3999.998px;
+    height: 2000px;
+    left: 0px;
+    top: -564px;
+    overflow: visible;
+}
+
+#Layer_5 {
+    position: absolute;
+    width: 3999.998px;
+    height: 2000px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+
+#Rectangle_740 {
+    opacity: 0.123;
+    fill: rgba(121, 188, 215, 1);
+}
+
+.Rectangle_740 {
+    position: absolute;
+    overflow: visible;
+    width: 1999.999px;
+    height: 2000px;
+    left: 0px;
+    top: 0px;
+}
+
+#Rectangle_741 {
+    fill: rgba(121, 188, 215, 1);
+}
+
+.Rectangle_741 {
+    position: absolute;
+    overflow: visible;
+    width: 1999.999px;
+    height: 2000px;
+    left: 1999.999px;
+    top: 0px;
+}
+
+#Layer_3 {
+    position: absolute;
+    width: 3999.998px;
+    height: 2000px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+
+#Groupe_18 {
+    position: absolute;
+    width: 1999.999px;
+    height: 2000px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+
+#Groupe_17 {
+    position: absolute;
+    width: 1999.999px;
+    height: 2000px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+
+#Groupe_20 {
+    position: absolute;
+    width: 1999.999px;
+    height: 2000px;
+    left: 1999.999px;
+    top: 0px;
+    overflow: visible;
+}
+
+#Groupe_19 {
+    position: absolute;
+    width: 1999.999px;
+    height: 2000px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+
+#Layer_3_copy_2 {
+    position: absolute;
+    width: 3999.998px;
+    height: 2000px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+
+#Groupe_23 {
+    position: absolute;
+    width: 1999.999px;
+    height: 2000px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+
+#Groupe_22 {
+    position: absolute;
+    width: 1999.999px;
+    height: 2000px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+
+#Groupe_26 {
+    position: absolute;
+    width: 1999.999px;
+    height: 2000px;
+    left: 1999.999px;
+    top: 0px;
+    overflow: visible;
+}
+
+#Groupe_25 {
+    position: absolute;
+    width: 1999.999px;
+    height: 2000px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+
+#Renseignement_Personnel__Non_v {
+    left: 589px;
+    top: 106px;
+    position: absolute;
+    overflow: visible;
+    width: 744px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Source Sans Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    color: rgba(77, 79, 92, 1);
+}
+
+#title {
+    position: absolute;
+    width: 119px;
+    height: 477px;
+    left: 312px;
+    top: 298px;
+    overflow: visible;
+}
+
+#Nom_ {
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 38px;
+    white-space: nowrap;
+    line-height: 25px;
+    margin-top: -5px;
+    text-align: left;
+    font-family: Source Sans Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    color: rgba(67, 66, 93, 1);
+}
+
+#Prnom_ {
+    left: 0px;
+    top: 114px;
+    position: absolute;
+    overflow: visible;
+    width: 58px;
+    white-space: nowrap;
+    line-height: 25px;
+    margin-top: -5px;
+    text-align: left;
+    font-family: Source Sans Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    color: rgba(67, 66, 93, 1);
+}
+
+#Date_de_naissance_ {
+    left: 0px;
+    top: 228px;
+    position: absolute;
+    overflow: visible;
+    width: 120px;
+    white-space: nowrap;
+    line-height: 25px;
+    margin-top: -5px;
+    text-align: left;
+    font-family: Source Sans Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    color: rgba(67, 66, 93, 1);
+}
+
+#Situation {
+    left: 0px;
+    top: 342px;
+    position: absolute;
+    overflow: visible;
+    width: 58px;
+    white-space: nowrap;
+    line-height: 25px;
+    margin-top: -5px;
+    text-align: left;
+    font-family: Source Sans Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    color: rgba(67, 66, 93, 1);
+}
+
+#Ville_actuelle {
+    left: 0px;
+    top: 456px;
+    position: absolute;
+    overflow: visible;
+    width: 81px;
+    white-space: nowrap;
+    line-height: 25px;
+    margin-top: -5px;
+    text-align: left;
+    font-family: Source Sans Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    color: rgba(67, 66, 93, 1);
+}
+
+#title_be {
+    position: absolute;
+    width: 96px;
+    height: 363px;
+    left: 1027px;
+    top: 298px;
+    overflow: visible;
+}
+
+#Nationalit_ {
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 77px;
+    white-space: nowrap;
+    line-height: 25px;
+    margin-top: -5px;
+    text-align: left;
+    font-family: Source Sans Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    color: rgba(67, 66, 93, 1);
+}
+
+#Profession_ {
+    left: 0px;
+    top: 114px;
+    position: absolute;
+    overflow: visible;
+    width: 74px;
+    white-space: nowrap;
+    line-height: 25px;
+    margin-top: -5px;
+    text-align: left;
+    font-family: Source Sans Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    color: rgba(67, 66, 93, 1);
+}
+
+#Adresse_mail_ {
+    left: 0px;
+    top: 228px;
+    position: absolute;
+    overflow: visible;
+    width: 87px;
+    white-space: nowrap;
+    line-height: 25px;
+    margin-top: -5px;
+    text-align: left;
+    font-family: Source Sans Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    color: rgba(67, 66, 93, 1);
+}
+
+#Numro_de_tl_ {
+    left: 0px;
+    top: 342px;
+    position: absolute;
+    overflow: visible;
+    width: 97px;
+    white-space: nowrap;
+    line-height: 25px;
+    margin-top: -5px;
+    text-align: left;
+    font-family: Source Sans Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    color: rgba(67, 66, 93, 1);
+}
+
+#Idleempty_label {
+    position: absolute;
+    width: 400px;
+    height: 73px;
+    left: 435px;
+    top: 289px;
+    overflow: visible;
+}
+
+#Rectangle_175 {
+    fill: rgba(255, 255, 255, 1);
+    stroke: rgba(232, 233, 236, 1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+
+.Rectangle_175 {
+    position: absolute;
+    overflow: visible;
+    width: 400px;
+    height: 40px;
+    left: 0px;
+    top: 0px;
+}
+
+#Nom__bl {
+    left: 16px;
+    top: 12px;
+    position: absolute;
+    overflow: visible;
+    width: 30px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Source Sans Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    color: rgba(206, 207, 208, 1);
+}
+
+#Helper_Text {
+    left: 0px;
+    top: 55px;
+    position: absolute;
+    overflow: visible;
+    width: 62px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Source Sans Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    color: rgba(128, 132, 149, 1);
+}
+
+#Idleempty_label_bn {
+    position: absolute;
+    width: 400px;
+    height: 73px;
+    left: 1150px;
+    top: 289px;
+    overflow: visible;
+}
+
+#Rectangle_175_bo {
+    fill: rgba(255, 255, 255, 1);
+    stroke: rgba(232, 233, 236, 1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+
+.Rectangle_175_bo {
+    position: absolute;
+    overflow: visible;
+    width: 400px;
+    height: 40px;
+    left: 0px;
+    top: 0px;
+}
+
+#Nationalit__bp {
+    left: 16px;
+    top: 12px;
+    position: absolute;
+    overflow: visible;
+    width: 64px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Source Sans Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    color: rgba(206, 207, 208, 1);
+}
+
+#Helper_Text_bq {
+    left: 0px;
+    top: 55px;
+    position: absolute;
+    overflow: visible;
+    width: 62px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Source Sans Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    color: rgba(128, 132, 149, 1);
+}
+
+#Idlefilled_label {
+    position: absolute;
+    width: 400px;
+    height: 73px;
+    left: 435px;
+    top: 745px;
+    overflow: visible;
+}
+
+#Rectangle_175_bs {
+    fill: rgba(255, 255, 255, 1);
+    stroke: rgba(232, 233, 236, 1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+
+.Rectangle_175_bs {
+    position: absolute;
+    overflow: visible;
+    width: 400px;
+    height: 40px;
+    left: 0px;
+    top: 0px;
+}
+
+#PARIS {
+    left: 16px;
+    top: 12px;
+    position: absolute;
+    overflow: visible;
+    width: 33px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Source Sans Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    color: rgba(206, 207, 208, 1);
+}
+
+#Helper_Text_bu {
+    left: 0px;
+    top: 55px;
+    position: absolute;
+    overflow: visible;
+    width: 62px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Source Sans Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    color: rgba(128, 132, 149, 1);
+}
+
+#Focus_label {
+    position: absolute;
+    width: 400px;
+    height: 287px;
+    left: 435px;
+    top: 417px;
+    overflow: visible;
+}
+
+#Rectangle_175_bw {
+    fill: rgba(255, 255, 255, 1);
+    stroke: rgba(59, 134, 255, 1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+
+.Rectangle_175_bw {
+    position: absolute;
+    overflow: visible;
+    width: 400px;
+    height: 40px;
+    left: 0px;
+    top: 214px;
+}
+
+#Helper_Text_bx {
+    left: 0px;
+    top: 269px;
+    position: absolute;
+    overflow: visible;
+    width: 62px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Source Sans Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    color: rgba(128, 132, 149, 1);
+}
+
+#Prnom__by {
+    left: 16px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 47px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Source Sans Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    color: rgba(206, 207, 208, 1);
+}
+
+#Focus_label_bz {
+    position: absolute;
+    width: 400px;
+    height: 287px;
+    left: 1150px;
+    top: 417px;
+    overflow: visible;
+}
+
+#Rectangle_175_b {
+    fill: rgba(255, 255, 255, 1);
+    stroke: rgba(59, 134, 255, 1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+
+.Rectangle_175_b {
+    position: absolute;
+    overflow: visible;
+    width: 400px;
+    height: 40px;
+    left: 0px;
+    top: 214px;
+}
+
+#Helper_Text_b {
+    left: 0px;
+    top: 269px;
+    position: absolute;
+    overflow: visible;
+    width: 62px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Source Sans Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    color: rgba(128, 132, 149, 1);
+}
+
+#Prnom__b {
+    left: 16px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 47px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Source Sans Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    color: rgba(206, 207, 208, 1);
+}
+
+#Press_label {
+    position: absolute;
+    width: 400px;
+    height: 73px;
+    left: 435px;
+    top: 517px;
+    overflow: visible;
+}
+
+#Rectangle_175_ca {
+    fill: rgba(255, 255, 255, 1);
+    stroke: rgba(59, 134, 255, 1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+
+.Rectangle_175_ca {
+    position: absolute;
+    overflow: visible;
+    width: 400px;
+    height: 40px;
+    left: 0px;
+    top: 0px;
+}
+
+#Date_de_naissance__b {
+    left: 16px;
+    top: 12px;
+    position: absolute;
+    overflow: visible;
+    width: 101px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Source Sans Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    color: rgba(232, 233, 236, 1);
+}
+
+#Helper_Text_ca {
+    left: 0px;
+    top: 55px;
+    position: absolute;
+    overflow: visible;
+    width: 62px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Source Sans Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    color: rgba(128, 132, 149, 1);
+}
+
+#Trac_308 {
+    fill: transparent;
+    stroke: rgba(59, 134, 255, 1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+
+.Trac_308 {
+    overflow: visible;
+    position: absolute;
+    width: 1px;
+    height: 25px;
+    left: 14.313px;
+    top: 7.213px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+#Press_label_b {
+    position: absolute;
+    width: 400px;
+    height: 73px;
+    left: 1150px;
+    top: 517px;
+    overflow: visible;
+}
+
+#Rectangle_175_cb {
+    fill: rgba(255, 255, 255, 1);
+    stroke: rgba(59, 134, 255, 1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+
+.Rectangle_175_cb {
+    position: absolute;
+    overflow: visible;
+    width: 400px;
+    height: 40px;
+    left: 0px;
+    top: 0px;
+}
+
+#Adresse_mailgmailcom {
+    left: 16px;
+    top: 12px;
+    position: absolute;
+    overflow: visible;
+    width: 138px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Source Sans Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    color: rgba(232, 233, 236, 1);
+}
+
+#Helper_Text_cb {
+    left: 0px;
+    top: 55px;
+    position: absolute;
+    overflow: visible;
+    width: 62px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Source Sans Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    color: rgba(128, 132, 149, 1);
+}
+
+#Trac_308_cc {
+    fill: transparent;
+    stroke: rgba(59, 134, 255, 1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+
+.Trac_308_cc {
+    overflow: visible;
+    position: absolute;
+    width: 1px;
+    height: 25px;
+    left: 14.313px;
+    top: 7.213px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+#Hover_label {
+    position: absolute;
+    width: 400px;
+    height: 258px;
+    left: 435px;
+    top: 403px;
+    overflow: visible;
+}
+
+#Rectangle_175_ce {
+    fill: rgba(255, 255, 255, 1);
+    stroke: rgba(128, 132, 149, 1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+
+.Rectangle_175_ce {
+    position: absolute;
+    overflow: visible;
+    width: 400px;
+    height: 40px;
+    left: 0px;
+    top: 0px;
+}
+
+#Prnom__cf {
+    left: 16px;
+    top: 12px;
+    position: absolute;
+    overflow: visible;
+    width: 47px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Source Sans Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    color: rgba(206, 207, 208, 1);
+}
+
+#Mari__Clibataire {
+    left: 16px;
+    top: 240px;
+    position: absolute;
+    overflow: visible;
+    width: 99px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Source Sans Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    color: rgba(206, 207, 208, 1);
+}
+
+#Helper_Text_ch {
+    left: 0px;
+    top: 55px;
+    position: absolute;
+    overflow: visible;
+    width: 62px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Source Sans Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    color: rgba(128, 132, 149, 1);
+}
+
+#Hover_label_ci {
+    position: absolute;
+    width: 400px;
+    height: 258px;
+    left: 1150px;
+    top: 403px;
+    overflow: visible;
+}
+
+#Rectangle_175_cj {
+    fill: rgba(255, 255, 255, 1);
+    stroke: rgba(128, 132, 149, 1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+
+.Rectangle_175_cj {
+    position: absolute;
+    overflow: visible;
+    width: 400px;
+    height: 40px;
+    left: 0px;
+    top: 0px;
+}
+
+#Profession {
+    left: 16px;
+    top: 12px;
+    position: absolute;
+    overflow: visible;
+    width: 58px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Source Sans Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    color: rgba(206, 207, 208, 1);
+}
+
+#n_3_6789105432 {
+    left: 16px;
+    top: 240px;
+    position: absolute;
+    overflow: visible;
+    width: 88px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Source Sans Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    color: rgba(206, 207, 208, 1);
+}
+
+#Helper_Text_cm {
+    left: 0px;
+    top: 55px;
+    position: absolute;
+    overflow: visible;
+    width: 62px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Source Sans Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    color: rgba(128, 132, 149, 1);
+}
+
+.formcontrol:-moz-placeholder {
+    color: #999
+}
+
+.formcontrol::-moz-placeholder {
+    color: #999
+}
+
+.formcontrol:-ms-input-placeholder {
+    color: #999
+}
+
+.formcontrol::-webkit-input-placeholder {
+    color: #999
+}
+
+.formcontrol {
+    width: 100%;
+    height: 34px;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.428571429;
+    color: #555;
+    vertical-align: middle;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+    -webkit-transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+    transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s
+}
+
+.formcontrol:focus {
+    border-color: #66afe9;
+    outline: 0;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(102, 175, 233, 0.6);
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(102, 175, 233, 0.6)
+}
+
+.formcontrol[disabled],
+.formcontrol[readonly],
+fieldset[disabled] .formcontrol {
+    cursor: not-allowed;
+    background-color: #eee
+}
+
+textarea.formcontrol {
+    height: auto
+}
+
+.form input {
+    border-color: #757575;
+    width: 280px;
+}
+
+.form input::placeholder {
+    font-size: 10px;
+}
+
+#header {
+    padding: 0px 0;
+    height: 75px;
+    left: 0;
+    top: 0;
+    background: none;
+    color: rgb(0, 0, 0);
+    right: 0;
+    transition: all 0.5s;
+    z-index: 997;
+}
+
+
+/* #header.header-scrolled {
+    background: rgba(255, 255, 255, 0.9);
+    color: #000;
+    padding: 0px 0;
+    height: 96px;
+    transition: all 0.5s;
+}
+
+#header.header-scrolled .nav-menu a {
+    padding: 22px 8px 10px 8px;
+    text-decoration: none;
+    display: inline-block;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 700;
+    font-size: 17px;
+    color: #000000;
+    text-transform: uppercase;
+    outline: none;
+} */
+
+#header #logo {
+    float: left;
+}
+
+.logo {
+    width: 84%;
+    position: relative;
+}
+
+.body_page2 {
+    margin-top: 132px;
+    margin-left: 76px;
+}
+
+.button2 {
+    margin-left: 884px;
+    margin-top: 0%;
+    position: relative;
+    background-color: #29449F;
+    border-radius: 15px;
+    border-color: #ffffff;
+    color: rgb(252, 252, 252);
+    padding: 10px;
+    width: 150px;
+    text-align: center;
+    transition-duration: 0.4s;
+    text-decoration: none;
+    overflow: hidden;
+    cursor: pointer;
+}
+
+.input7 {
+    margin-left: 131px;
+}
+
+.input8 {
+    margin-left: 109px;
+}
+
+.input9 {
+    margin-left: 39px;
+}
+
+.input10 {
+    margin-left: 104px;
+}
+
+.input11 {
+    margin-left: 79px;
+}
+
+.input12 {
+    margin-left: 83px;
+}
+
+.input13 {
+    margin-left: 85px;
+}
+
+.input14 {
+    margin-left: 72px;
+}
+
+.input15 {
+    margin-left: 65px;
+}
